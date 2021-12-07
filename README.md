@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+- ❤️ Game Developer
+
 | <a href="https://github.com/husheng0/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=HushengStudent&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="HushengStudent's github stats" /></a> | <a href="https://github.com/husheng0/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HushengStudent&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
