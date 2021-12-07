@@ -17,26 +17,26 @@ Here are some ideas to get you started:
 
 - ❤️ Game Developer
 
-| <a href="https://github.com/husheng0/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=HushengStudent&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="HushengStudent's github stats" /></a> | <a href="https://github.com/husheng0/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HushengStudent&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/husheng0/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=HushengStudent&show_icons=true&include_all_commits=true&theme=synthwave&hide_border=true" alt="HushengStudent's github stats" /></a> | <a href="https://github.com/husheng0/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HushengStudent&layout=compact&theme=synthwave&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 <a href="https://github.com/HushengStudent/myGameFramework">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HushengStudent&repo=myGameFramework&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HushengStudent&repo=myGameFramework&theme=blue-green" />
 </a>
 <a href="https://github.com/HushengStudent/myEngine">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HushengStudent&repo=myEngine&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HushengStudent&repo=myEngine&theme=blue-green" />
 </a>
 <a href="https://github.com/HushengStudent/myOptimization">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HushengStudent&repo=myOptimization&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HushengStudent&repo=myOptimization&theme=blue-green" />
 </a>
 <a href="https://github.com/HushengStudent/myRendering">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HushengStudent&repo=myRendering&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HushengStudent&repo=myRendering&theme=blue-green" />
 </a>
 <a href="https://github.com/HushengStudent/myShaderLibrary">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HushengStudent&repo=myShaderLibrary&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HushengStudent&repo=myShaderLibrary&theme=blue-green" />
 </a>
 <a href="https://github.com/HushengStudent/myGoFramwork">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HushengStudent&repo=myGoFramwork&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HushengStudent&repo=myGoFramwork&theme=blue-green" />
 </a>
 
 
