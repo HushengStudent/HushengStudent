@@ -21,22 +21,22 @@ Here are some ideas to get you started:
 | ------------- | ------------- |
 
 <a href="https://github.com/HushengStudent/myGameFramework">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HushengStudent&repo=myGameFramework&theme=blue-green" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HushengStudent&repo=myGameFramework&theme=vue" />
 </a>
 <a href="https://github.com/HushengStudent/myEngine">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HushengStudent&repo=myEngine&theme=blue-green" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HushengStudent&repo=myEngine&theme=vue" />
 </a>
 <a href="https://github.com/HushengStudent/myOptimization">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HushengStudent&repo=myOptimization&theme=blue-green" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HushengStudent&repo=myOptimization&theme=vue" />
 </a>
 <a href="https://github.com/HushengStudent/myRendering">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HushengStudent&repo=myRendering&theme=blue-green" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HushengStudent&repo=myRendering&theme=vue" />
 </a>
 <a href="https://github.com/HushengStudent/myShaderLibrary">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HushengStudent&repo=myShaderLibrary&theme=blue-green" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HushengStudent&repo=myShaderLibrary&theme=vue" />
 </a>
 <a href="https://github.com/HushengStudent/myGoFramwork">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HushengStudent&repo=myGoFramwork&theme=blue-green" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HushengStudent&repo=myGoFramwork&theme=vue" />
 </a>
 
 
