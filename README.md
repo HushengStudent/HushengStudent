@@ -22,20 +22,20 @@ Here are some ideas to get you started:
 
 
 <a href="https://github.com/HushengStudent/myGameFramework">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HushengStudent&repo=myGameFramework&theme=aura" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HushengStudent&repo=myGameFramework&theme=yeblu" />
 </a>
 <a href="https://github.com/HushengStudent/myEngine">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HushengStudent&repo=myEngine&theme=aura" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HushengStudent&repo=myEngine&theme=yeblu" />
 </a>
 <a href="https://github.com/HushengStudent/myOptimization">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HushengStudent&repo=myOptimization&theme=aura" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HushengStudent&repo=myOptimization&theme=yeblu" />
 </a>
 <a href="https://github.com/HushengStudent/myRendering">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HushengStudent&repo=myRendering&theme=aura" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HushengStudent&repo=myRendering&theme=yeblu" />
 </a>
 <a href="https://github.com/HushengStudent/myShaderLibrary">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HushengStudent&repo=myShaderLibrary&theme=aura" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HushengStudent&repo=myShaderLibrary&theme=yeblu" />
 </a>
 <a href="https://github.com/HushengStudent/myGoFramwork">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HushengStudent&repo=myGoFramwork&theme=aura" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HushengStudent&repo=myGoFramwork&theme=yeblu" />
 </a>
