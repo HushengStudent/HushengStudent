@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 😄 Game Developer ❤️ Blog：[胡胜同学](https://hushengstudent.github.io/)
+- 😄 Game Developer ❤️ Blog：[老胡同学](https://hushengstudent.github.io/)
 
 | <a href="https://github.com/HushengStudent/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=HushengStudent&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="HushengStudent's github stats" /></a> | <a href="https://github.com/HushengStudent/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HushengStudent&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 <br>
->> 引擎与渲染：
+>> 渲染与引擎：
 <br>
 <a href="https://github.com/HushengStudent/myRendering">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HushengStudent&repo=myRendering&theme=blue-green" />
